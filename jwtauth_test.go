@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	jwt "github.com/dgrijalva/jwt-go"
+	"github.com/RomanShevchenkoWeka/jwtauth"
+	jwt "github.com/Waterdrips/jwt-go"
 	"github.com/go-chi/chi"
-	"github.com/go-chi/jwtauth"
 )
 
 var (
